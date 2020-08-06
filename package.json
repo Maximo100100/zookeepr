@@ -1,0 +1,26 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maximo100100/zookeepr.git"
+  },
+  "keywords": [
+    "school"
+  ],
+  "author": "Maximo Bahamondes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Maximo100100/zookeepr/issues"
+  },
+  "homepage": "https://github.com/Maximo100100/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
